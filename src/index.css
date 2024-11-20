@@ -1,0 +1,12 @@
+@import '@arcgis/core/assets/esri/themes/light/main.css';
+body {
+  padding: 1rem;
+  background-color: hsl(200, 50%, 50%);
+}
+.map {
+  display: block;
+  width: 6in;
+  height: 6in;
+  border: 2px solid hsl(200, 50%, 25%);
+  background-color: hsl(200, 50%, 75%);
+}
